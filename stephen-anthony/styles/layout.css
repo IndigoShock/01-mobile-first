@@ -3,6 +3,7 @@
 }
 body{
   margin:0;
+  overflow: hidden;
 }
 .heading-group-h1{
   font-family: sans-serif;
@@ -28,10 +29,15 @@ h2{
 }
 @media only screen and (max-width: 640px) {
   .icon-menu {
-    display: inline;
+    display: inline-block;
+    float: right; 
+    margin-top: -4em;
   }
   .main-nav ul{
     display: none;
+  }
+  main {
+    padding-top: 3em;
   }
 }
 .main-nav ul{
@@ -57,7 +63,7 @@ address a{
 .byline {
   color: gray;
 }
-
-img {
-  max-width: 50%;
+.pull-right{
+  float: right;
+  
 }
