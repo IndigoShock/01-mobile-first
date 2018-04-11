@@ -17,5 +17,6 @@ Have starter code. Have access to VS Code. And fiddle with the html and CSS. Sta
 04-10-2018 1:39pm - Application layout is correct. Navbar is not fully functional for mobile.
 
 ## Credits and Collaborations
+We switched off as driver and navigator.
 Stephen Harper: https://github.com/IndigoShock
 Anthony Green: https://github.com/cascadianrebel
